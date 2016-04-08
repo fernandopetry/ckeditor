@@ -11,5 +11,8 @@
             "email": "fernandosouza2@gmail.com",
             "homepage": "http://www.fernandopetry.com.br"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {"Ckeditor\\": ""}
+    }
 }
